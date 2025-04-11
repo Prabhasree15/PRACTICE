@@ -39,11 +39,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0455-assign-cookies](https://github.com/Prabhasree15/PRACTICE/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/Prabhasree15/PRACTICE/tree/master/0561-array-partition) |
+| [0890-lemonade-change](https://github.com/Prabhasree15/PRACTICE/tree/master/0890-lemonade-change) |
 ## Greedy
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Prabhasree15/PRACTICE/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/Prabhasree15/PRACTICE/tree/master/0561-array-partition) |
+| [0890-lemonade-change](https://github.com/Prabhasree15/PRACTICE/tree/master/0890-lemonade-change) |
 ## Sorting
 |  |
 | ------- |
