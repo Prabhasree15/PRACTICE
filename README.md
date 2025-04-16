@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Prabhasree15/PRACTICE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Prabhasree15/PRACTICE/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Prabhasree15/PRACTICE/tree/master/0035-search-insert-position) |
+| [0039-combination-sum](https://github.com/Prabhasree15/PRACTICE/tree/master/0039-combination-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Prabhasree15/PRACTICE/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/Prabhasree15/PRACTICE/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/Prabhasree15/PRACTICE/tree/master/0561-array-partition) |
@@ -122,4 +123,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Prabhasree15/PRACTICE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/Prabhasree15/PRACTICE/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
