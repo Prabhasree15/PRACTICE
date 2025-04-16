@@ -35,11 +35,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Prabhasree15/PRACTICE/tree/master/0004-median-of-two-sorted-arrays) |
 | [0069-sqrtx](https://github.com/Prabhasree15/PRACTICE/tree/master/0069-sqrtx) |
 ## Array
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Prabhasree15/PRACTICE/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/Prabhasree15/PRACTICE/tree/master/0004-median-of-two-sorted-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Prabhasree15/PRACTICE/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/Prabhasree15/PRACTICE/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/Prabhasree15/PRACTICE/tree/master/0561-array-partition) |
@@ -82,4 +84,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Prabhasree15/PRACTICE/tree/master/0002-add-two-numbers) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Prabhasree15/PRACTICE/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
