@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Prabhasree15/PRACTICE/tree/master/0004-median-of-two-sorted-arrays) |
+| [0035-search-insert-position](https://github.com/Prabhasree15/PRACTICE/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Prabhasree15/PRACTICE/tree/master/0069-sqrtx) |
 ## Array
 |  |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Prabhasree15/PRACTICE/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Prabhasree15/PRACTICE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Prabhasree15/PRACTICE/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/Prabhasree15/PRACTICE/tree/master/0035-search-insert-position) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Prabhasree15/PRACTICE/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/Prabhasree15/PRACTICE/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/Prabhasree15/PRACTICE/tree/master/0561-array-partition) |
