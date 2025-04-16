@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Prabhasree15/PRACTICE/tree/master/0001-two-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Prabhasree15/PRACTICE/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/Prabhasree15/PRACTICE/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/Prabhasree15/PRACTICE/tree/master/0561-array-partition) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Prabhasree15/PRACTICE/tree/master/0001-two-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Prabhasree15/PRACTICE/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Prabhasree15/PRACTICE/tree/master/2626-count-the-number-of-good-subarrays) |
 ## Sliding Window
