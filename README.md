@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Prabhasree15/PRACTICE/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Prabhasree15/PRACTICE/tree/master/0004-median-of-two-sorted-arrays) |
+| [0015-3sum](https://github.com/Prabhasree15/PRACTICE/tree/master/0015-3sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Prabhasree15/PRACTICE/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/Prabhasree15/PRACTICE/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/Prabhasree15/PRACTICE/tree/master/0561-array-partition) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Prabhasree15/PRACTICE/tree/master/0015-3sum) |
 | [0455-assign-cookies](https://github.com/Prabhasree15/PRACTICE/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/Prabhasree15/PRACTICE/tree/master/0561-array-partition) |
 | [0917-boats-to-save-people](https://github.com/Prabhasree15/PRACTICE/tree/master/0917-boats-to-save-people) |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Prabhasree15/PRACTICE/tree/master/0015-3sum) |
 | [0455-assign-cookies](https://github.com/Prabhasree15/PRACTICE/tree/master/0455-assign-cookies) |
 | [0917-boats-to-save-people](https://github.com/Prabhasree15/PRACTICE/tree/master/0917-boats-to-save-people) |
 ## Hash Table
