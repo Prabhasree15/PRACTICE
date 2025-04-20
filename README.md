@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/Prabhasree15/PRACTICE/tree/master/0561-array-partition) |
 | [0890-lemonade-change](https://github.com/Prabhasree15/PRACTICE/tree/master/0890-lemonade-change) |
 | [0917-boats-to-save-people](https://github.com/Prabhasree15/PRACTICE/tree/master/0917-boats-to-save-people) |
+| [1019-squares-of-a-sorted-array](https://github.com/Prabhasree15/PRACTICE/tree/master/1019-squares-of-a-sorted-array) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Prabhasree15/PRACTICE/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Prabhasree15/PRACTICE/tree/master/2626-count-the-number-of-good-subarrays) |
 ## Greedy
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Prabhasree15/PRACTICE/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/Prabhasree15/PRACTICE/tree/master/0561-array-partition) |
 | [0917-boats-to-save-people](https://github.com/Prabhasree15/PRACTICE/tree/master/0917-boats-to-save-people) |
+| [1019-squares-of-a-sorted-array](https://github.com/Prabhasree15/PRACTICE/tree/master/1019-squares-of-a-sorted-array) |
 ## Counting Sort
 |  |
 | ------- |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Prabhasree15/PRACTICE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0455-assign-cookies](https://github.com/Prabhasree15/PRACTICE/tree/master/0455-assign-cookies) |
 | [0917-boats-to-save-people](https://github.com/Prabhasree15/PRACTICE/tree/master/0917-boats-to-save-people) |
+| [1019-squares-of-a-sorted-array](https://github.com/Prabhasree15/PRACTICE/tree/master/1019-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
