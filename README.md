@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/Prabhasree15/PRACTICE/tree/master/1019-squares-of-a-sorted-array) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Prabhasree15/PRACTICE/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Prabhasree15/PRACTICE/tree/master/2626-count-the-number-of-good-subarrays) |
+| [2915-count-of-interesting-subarrays](https://github.com/Prabhasree15/PRACTICE/tree/master/2915-count-of-interesting-subarrays) |
 ## Greedy
 |  |
 | ------- |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Prabhasree15/PRACTICE/tree/master/0013-roman-to-integer) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Prabhasree15/PRACTICE/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Prabhasree15/PRACTICE/tree/master/2626-count-the-number-of-good-subarrays) |
+| [2915-count-of-interesting-subarrays](https://github.com/Prabhasree15/PRACTICE/tree/master/2915-count-of-interesting-subarrays) |
 ## Sliding Window
 |  |
 | ------- |
@@ -131,4 +133,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Prabhasree15/PRACTICE/tree/master/0039-combination-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [2915-count-of-interesting-subarrays](https://github.com/Prabhasree15/PRACTICE/tree/master/2915-count-of-interesting-subarrays) |
 <!---LeetCode Topics End-->
