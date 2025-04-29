@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Prabhasree15/PRACTICE/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Prabhasree15/PRACTICE/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2915-count-of-interesting-subarrays](https://github.com/Prabhasree15/PRACTICE/tree/master/2915-count-of-interesting-subarrays) |
+| [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Prabhasree15/PRACTICE/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 ## Greedy
 |  |
 | ------- |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Prabhasree15/PRACTICE/tree/master/2626-count-the-number-of-good-subarrays) |
+| [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Prabhasree15/PRACTICE/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 ## Linked List
 |  |
 | ------- |
