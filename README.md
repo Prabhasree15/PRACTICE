@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Prabhasree15/PRACTICE/tree/master/0043-multiply-strings) |
+| [2048-build-array-from-permutation](https://github.com/Prabhasree15/PRACTICE/tree/master/2048-build-array-from-permutation) |
 ## Binary Search
 |  |
 | ------- |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/Prabhasree15/PRACTICE/tree/master/0890-lemonade-change) |
 | [0917-boats-to-save-people](https://github.com/Prabhasree15/PRACTICE/tree/master/0917-boats-to-save-people) |
 | [1019-squares-of-a-sorted-array](https://github.com/Prabhasree15/PRACTICE/tree/master/1019-squares-of-a-sorted-array) |
+| [2048-build-array-from-permutation](https://github.com/Prabhasree15/PRACTICE/tree/master/2048-build-array-from-permutation) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Prabhasree15/PRACTICE/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Prabhasree15/PRACTICE/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Prabhasree15/PRACTICE/tree/master/2626-count-the-number-of-good-subarrays) |
